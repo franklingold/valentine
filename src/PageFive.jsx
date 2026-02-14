@@ -3,9 +3,9 @@ import React from "react";
 const PageFive = () => {
   const puns = [
     { emoji: "🌼", text: "I think about you every daisy" },
-    { emoji: "🌹", text: "My heart rose when I saw you" },
-    { emoji: "💐", text: "I love you bunches" },
-    { emoji: "🍃", text: "I will never leaf you" },
+    { emoji: "🌹", text: "My feelings for you rose the day we met." },
+    { emoji: "💐", text: "You’re the pick of the bunch." },
+    { emoji: "🍃", text: "I’m clover heels for you!" },
   ];
 
   return (
@@ -47,7 +47,7 @@ const PageFive = () => {
         }}
       >
         <p className="font-handwriting" style={{ fontSize: "1.5rem", color: "var(--primary)", margin: 0 }}>
-          Happy Valentine's Day, Faith! 💖
+          Happy Valentine's Day, Ade! 💖
         </p>
         <p className="font-handwriting" style={{ fontSize: "1.1rem", color: "#666", marginTop: "0.5rem" }}>
           You make my heart bloom 🌸

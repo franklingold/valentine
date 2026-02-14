@@ -1,6 +1,6 @@
 import React from "react";
-import tochiImg from "./assets/faith1.jpg";
-import tochiImg1 from "./assets/faith2.jpg";
+import tochiImg from "./assets/ade1.jpg";
+import tochiImg1 from "./assets/ade2.jpg";
 
 const PageThree = ({ onNext }) => {
   const photos = [1, 2];
@@ -8,7 +8,7 @@ const PageThree = ({ onNext }) => {
   return (
     <div className="container page-enter">
       <h1 className="title-main" style={{ fontFamily: 'Quicksand', fontWeight: 'bold' }}>
-        FOREVER TOGETHER
+        BETTER TOGETHER
       </h1>
       <div style={{ fontSize: "2rem", marginBottom: "2rem" }}>💑</div>
 
@@ -52,7 +52,7 @@ const PageThree = ({ onNext }) => {
         }}
       >
         <p className="font-handwriting" style={{ fontSize: "1.2rem", margin: 0 }}>
-          "We've shared so many special memories together, and I can't wait to create more!" 💗
+         "We've shared so many laughs together, but I'm hoping to start creating a different kind of memory with you. Happy Valentine's!" 💗
         </p>
       </div>
 

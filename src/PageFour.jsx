@@ -3,17 +3,17 @@ import React, { useState, useEffect } from "react";
 const PageFour = ({ onNext }) => {
   const [displayedText, setDisplayedText] = useState("");
   
-  const fullText = `My dearest Faith,
+  const fullText = `My dearest Ade,
 
-I just wanted to remind you how much you mean to me. Every moment with you feels like a beautiful dream I never want to wake up from.
+I’ve been thinking about how to say this for a while, but Valentine’s Day feels like the perfect time to be honest.
 
-Your smile lights up my world, your laughter is my favorite melody, and your love is the greatest gift I've ever received.
+Having you in my life is something I never take for granted. Your smile has a way of making even the most stressful days feel a little lighter, and your laugh is honestly my favorite sound in the world.
 
-I promise to cherish you, to make you laugh on your darkest days, and to love you more with each passing moment. You are my today and all of my tomorrows.
+I’ve admired you from a distance for a long time, and I’d love the chance to show you just how much you truly mean to me. You’re someone incredibly special, and I’m so grateful for every memory we've shared so far.
 
-Thank you for being you — perfectly imperfect, endlessly lovable, and absolutely mine.
+Here’s to many more moments together—hopefully, as something more.
 
-Forever yours,
+Happy Valentine's Day,
 💕`;
 
   useEffect(() => {
@@ -35,7 +35,7 @@ Forever yours,
   return (
     <div className="container page-enter">
       <h1 className="title-main" style={{ fontFamily: 'Quicksand', fontWeight: 'bold' }}>
-        WORDS FROM MY HEART
+        Safest Choice
       </h1>
 
       {/* Love letter */}
