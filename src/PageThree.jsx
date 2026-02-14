@@ -52,7 +52,7 @@ const PageThree = ({ onNext }) => {
         }}
       >
         <p className="font-handwriting" style={{ fontSize: "1.2rem", margin: 0 }}>
-         "We've shared so many special memories together, and I can't wait to create more!!" 💗
+         "i know we barely know... but the few moment with you has been very blissful for me  and I can't wait to create more!!" 💗
         </p>
       </div>
 

@@ -3,9 +3,9 @@ import React from "react";
 const PageFive = () => {
   const puns = [
     { emoji: "🌼", text: "I think about you every daisy" },
-    { emoji: "🌹", text: "My heart rose when I saw you" },
-    { emoji: "💐", text: "I love you bunches" },
-    { emoji: "🍃", text: "I will never leaf you" },
+    { emoji: "🌹", text: "My feelings for you rose the day we met." },
+    { emoji: "💐", text: "You’re the pick of the bunch." },
+    { emoji: "🍃", text: "I’m clover heels for you!" },
   ];
 
   return (

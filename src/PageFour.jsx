@@ -7,13 +7,13 @@ const PageFour = ({ onNext }) => {
 
 I just wanted to remind you how much you mean to me. Every moment with you feels like a beautiful dream I never want to wake up from.
 
-Your smile lights up my world, your laughter is my favorite melody, and your love is the greatest gift I've ever received.
+i alwyas felt like seeing you all the time, your facial expression is my favorite recipe, and your attention is the greatest gift I've ever received, and i really wish to received more.
 
-I promise to cherish you, to make you laugh on your darkest days, and to love you more with each passing moment. You are my today and all of my tomorrows.
+I promise to cherish you, to make you laugh on your darkest days, and to love you more with each passing moment if indeed you can give me the chance.
 
-Thank you for being you — perfectly imperfect, endlessly lovable, and absolutely mine.
+Thank you for being you — perfectly imperfect, endlessly lovable,
 
-Forever yours,
+hoping for your answer soon..
 💕`;
 
   useEffect(() => {
