@@ -47,7 +47,7 @@ const PageFive = () => {
         }}
       >
         <p className="font-handwriting" style={{ fontSize: "1.5rem", color: "var(--primary)", margin: 0 }}>
-          Happy Valentine's Day, Emerald! 💖
+          Happy Valentine's Day, Faith! 💖
         </p>
         <p className="font-handwriting" style={{ fontSize: "1.1rem", color: "#666", marginTop: "0.5rem" }}>
           You make my heart bloom 🌸
