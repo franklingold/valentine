@@ -34,7 +34,7 @@ const PageOne = ({ onYes }) => {
         }}
       >
         <h1 className="font-handwriting title-main" style={{ margin: 0 }}>
-          Ade, will you be my valentine?
+          Marvel, will you be my valentine?
         </h1>
         <div style={{ fontSize: "2rem", marginTop: "10px" }}>🌹</div>
       </div>

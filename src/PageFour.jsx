@@ -3,7 +3,7 @@ import React, { useState, useEffect } from "react";
 const PageFour = ({ onNext }) => {
   const [displayedText, setDisplayedText] = useState("");
   
-  const fullText = `My dearest,
+  const fullText = `My dearest Marvel,
 
 I just wanted to remind you how much you mean to me. Every moment with you feels like a beautiful dream I never want to wake up from.
 
